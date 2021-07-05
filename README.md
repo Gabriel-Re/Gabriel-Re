@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-<img src="https://i.pinimg.com/736x/9d/d3/93/9dd3938f65d2987751535e963fa4a41c.jpg" alt="About me">
+<img src="https://i.pinimg.com/736x/9d/d3/93/9dd3938f65d2987751535e963fa4a41c.jpg" alt="About me" width="300px">
 </details>
 
 <details>
