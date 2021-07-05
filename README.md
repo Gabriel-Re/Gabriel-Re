@@ -1,8 +1,11 @@
 <details>
 <summary><b>About me</b></summary>
-<p>Mi nombre es Gabriel Re, tengo 21 años y estudio Licenciatura en Analista de Sistemas en la UBA.
-    A lo largo de mis cursadas trabaje con lenguajes como: **C, Smalltalk, Java y Python**.
-    Actualmente estoy aprendiendo Oz y Julia</p>
+<p>Mi nombre es Gabriel Re, tengo 21 años y estudio Licenciatura en Analista de Sistemas en la UBA.</p>
+
+<p>A lo largo de mis cursadas trabaje con lenguajes como: **C, Smalltalk, Java y Python**.</p>
+
+<p>Actualmente estoy aprendiendo Oz y Julia</p>
+
 <img src="https://i.pinimg.com/736x/9d/d3/93/9dd3938f65d2987751535e963fa4a41c.jpg" alt="About me">
 </details>
 
