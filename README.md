@@ -12,6 +12,6 @@
 
 <b>Contact me</b>
 
-<a href="https://www.linkedin.com/in/gabriel-re/">
+<a href="https://www.linkedin.com/in/gabriel-re-b076441b3/">
 <img align="left" alt="in/gabriel-re/" height="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
 </a>
