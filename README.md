@@ -1,10 +1,10 @@
 <details>
 <summary><b>About me</b></summary>
-<p>Mi nombre es Gabriel Re, tengo 22 años y estudio Licenciatura en Analista de Sistemas en la UBA.</p>
+<p>Mi nombre es Gabriel Re, tengo 23 años y estudio Licenciatura en Analista de Sistemas en la UBA.</p>
 
-<p>A lo largo de mis cursadas trabaje con lenguajes como: <b>C, Smalltalk, Java, Rust, Python, Oz y Julia</b>.</p>
+<p>A lo largo de mis cursadas trabaje con: <b>C, Smalltalk, Java, Rust, Python, Julia, SQL, Dynamo</b>.</p>
 
-<p>Actualmente estoy trabajando como desarrollador en solidity (jornada parcial). Combinando herramientas como react y hardhat</p>
+<p>Actualmente estoy trabajando como desarrollador en solidity (jornada parcial). Combinando herramientas como React, Hardhat, AWS, DynamoDB entre otros</p>
 
 ---
 
